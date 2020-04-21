@@ -1,0 +1,39 @@
+.box{
+    border: 1px solid;
+    width: 19%;
+    margin: 5px 9px;
+    padding: 31px 13px;
+    position: relative;
+    top: 28%;
+    left: 40%;
+    background-color: #8db0ff;
+    border-radius: 17px;
+}
+.title{
+    margin-bottom: 38px;
+    margin-top: -21px;
+}
+.center{
+    text-align: center;
+}
+.tableData{
+    border: 1px solid;
+    width: 51%;
+    margin: 18px 0px;
+    padding: 31px 13px;
+    position: static;
+    /* top: 35%; */
+    left: 26%;
+    background-color: #e69191;
+}
+.tableBox{
+    width: 50%;
+    border: 1px solid;
+    margin: 2% 35% 4% 25%;
+    border-radius: 14px;
+    background-color: #e69191;
+    padding: 18px 25px 24px;
+}
+.none {
+    display: none !important;
+}

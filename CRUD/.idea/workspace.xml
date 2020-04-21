@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31585945-5662-4cff-8bf4-7601d269536f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aFLBOcfA3WhG3SNpKX0qAHSl93" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editorconfig.notification" value="null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../react-shopping-cart-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:/Users/lcom128-two/Desktop/burger-monday/DUMMY/dummy/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31585945-5662-4cff-8bf4-7601d269536f" name="Default Changelist" comment="" />
+      <created>1563197624752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563197624752</updated>
+      <workItem from="1563197626141" duration="6027000" />
+      <workItem from="1563265975532" duration="17903000" />
+      <workItem from="1563350962686" duration="11381000" />
+      <workItem from="1563439800823" duration="18453000" />
+      <workItem from="1563524000115" duration="962000" />
+      <workItem from="1563525092711" duration="22010000" />
+      <workItem from="1563782599516" duration="281000" />
+      <workItem from="1563782908341" duration="487000" />
+      <workItem from="1563783771877" duration="5996000" />
+      <workItem from="1563864123116" duration="3570000" />
+      <workItem from="1586326260943" duration="1597000" />
+      <workItem from="1587385030636" duration="2227000" />
+      <workItem from="1587427771905" duration="3307000" />
+      <workItem from="1587431849844" duration="4697000" />
+      <workItem from="1587473649543" duration="719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="130" width="543" height="504" key="#ESLint" timestamp="1587428363066">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state x="439" y="130" width="543" height="504" key="#ESLint/57.24.1309.744@57.24.1309.744" timestamp="1587428363066" />
+    <state x="449" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587434739004">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state x="449" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/57.24.1309.744@57.24.1309.744" timestamp="1587434739004" />
+    <state x="499" y="141" key="FileChooserDialogImpl" timestamp="1587386692976">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state x="499" y="141" key="FileChooserDialogImpl/57.24.1309.744@57.24.1309.744" timestamp="1587386692976" />
+    <state width="1286" height="263" key="GridCell.Tab.0.bottom" timestamp="1586332008428">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1286" height="263" key="GridCell.Tab.0.bottom/57.24.1309.744@57.24.1309.744" timestamp="1586332008428" />
+    <state width="1286" height="263" key="GridCell.Tab.0.center" timestamp="1586332008427">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1286" height="263" key="GridCell.Tab.0.center/57.24.1309.744@57.24.1309.744" timestamp="1586332008427" />
+    <state width="1286" height="263" key="GridCell.Tab.0.left" timestamp="1586332008426">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1286" height="263" key="GridCell.Tab.0.left/57.24.1309.744@57.24.1309.744" timestamp="1586332008426" />
+    <state width="1286" height="263" key="GridCell.Tab.0.right" timestamp="1586332008428">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1286" height="263" key="GridCell.Tab.0.right/57.24.1309.744@57.24.1309.744" timestamp="1586332008428" />
+  </component>
+</project>
